@@ -1,4 +1,3 @@
 # Economic_Project
-Economic Project was a final group project for Advanced Programming. 
-We created a Java application which utilizes Swing to teach young students various economic concepts 
-then allows them to use a fun simulation to test their newfound knowledge.
+In a final group project for Advanced Programming, we created a Java application which utilizes Swing 
+to teach young students various economic concepts through the GUI with a simulation to test their newfound knowledge.
